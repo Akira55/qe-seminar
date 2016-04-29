@@ -24,3 +24,4 @@ ROKKOPY
    chap2/oop/sec1
    chap2/numpy/sec1
    chap2/scipy/sec1
+   chap2/pandas/sec1
